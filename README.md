@@ -23,7 +23,7 @@ Generating calculated columns
 Formulating DAX measures, columns, and tables
 Utilizing new KPI cards for quick insights
 Creating dynamic titles based on filters
-Enhancing navigation with an interactive Page navigator
+Enhancing navigation with an interactive page Navigator
 Excelling in Data Modeling
 Embedding Bookmarks for seamless visual transitions
 Applying conditional formatting for impactful visualization
@@ -32,5 +32,7 @@ Feedback
 Your feedback is crucial to us! Please feel free to explore the dashboards and provide your insights, suggestions, and comments. Together, let's unlock the full potential of data-driven decision-making.
 
 Thank you for your interest and support!
+
+For Live Dashboard-[Click Here](https://www.novypro.com/project/business-insights-360-132)
 
 (Note: If you need assistance with setting up or navigating the project, don't hesitate to reach out to us.)
